@@ -1,0 +1,2 @@
+# trydjango
+Repo for Django
