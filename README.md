@@ -1,2 +1,2 @@
-# trydjango
-Repo for Django
+# TryDjango
+Practice project created with Django
